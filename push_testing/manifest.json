@@ -1,0 +1,4 @@
+//a hard-coded value indicating that FCM is authorized to send messages to this app.
+{
+  "gcm_sender_id": "103953800507"
+}
